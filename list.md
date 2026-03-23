@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Bullet List
 permalink: /list/
 ---
