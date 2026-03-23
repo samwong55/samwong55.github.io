@@ -1,0 +1,3 @@
+# Ignore bundler vendor directory (keep locally but not in git)
+/vendor/
+/vendor/bundle/
